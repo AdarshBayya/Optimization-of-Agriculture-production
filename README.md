@@ -75,7 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Data Sources**: [Link to data sources]
 - **Libraries and Tools**: Python, Pandas, Scikit-learn, TensorFlow, Jupyter Notebook
-
-## Contact
-
-For any inquiries or further information, please contact [Manideep Reddy](mailto:manideepreddy966@gmail.com).
